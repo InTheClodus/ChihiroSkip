@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/rounded_background">
+    <target
+        android:animation="@animator/circle_expand_animation"
+        android:name="background" />
+</animated-vector>

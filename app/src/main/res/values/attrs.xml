@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CircularButton">
+        <attr name="buttonImage" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="CircularImageButton">
+        <attr name="imageSrc" format="reference" />
+    </declare-styleable>
+</resources>
