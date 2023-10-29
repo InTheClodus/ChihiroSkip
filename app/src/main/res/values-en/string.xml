@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Chihiro</string>
     <string name="app_description">A free and open source tool to automatically skip app opening screen ads</string>
+    <string name="accessibility_description">If accessibility services malfunction, they can be turned off and on again.</string>
+    <string name="attention">Precautions</string>
+    <string name="attention_content">Since the accessibility service will automatically close after the application process ends, you need to enable the application background running permission.</string>
+    <string name="operation">Operation method</string>
+    <string name="service_status_disable">Accessibility services have been disabled.~</string>
+    <string name="service_status_enable">Accessibility services have been enabled.</string>
+    <string name="service_is_enable_tips">Accessibility services have been enabled! No need to enable them again~</string>
+    <string name="open_target_app">打开目标APP</string>
 </resources>

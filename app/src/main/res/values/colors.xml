@@ -7,4 +7,7 @@
     <color name="orange">#FFA500</color>
 <!--    透明 -->
     <color name="trabsparent">#00000000</color>
+    <color name="purple_700">#9B1FE8</color>
+    <color name="teal_200">#007C7C</color>
+    <color name="colorPrimaryDark">#303F9F</color>
 </resources>

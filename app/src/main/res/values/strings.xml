@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">千寻</string>
-    <string name="app_description">免费开源的自动跳过app开屏广告的工具</string>
+    <string name="app_description">免费开源的自动屏蔽app开屏广告的工具</string>
+    <string name="accessibility_description">若无障碍服务发生故障，可以关闭后再打开。</string>
+    <string name="attention">注意事项</string>
+    <string name="attention_content">由于无障碍服务会在应用进程结束后自动关闭，因此需要开启应用后台运行权限</string>
+    <string name="operation">操作方式</string>
+    <string name="service_status_disable">无障碍服务已关闭~</string>
+    <string name="service_status_enable">无障碍服务已开启</string>
+    <string name="service_is_enable_tips">无障碍服务已开启！无需重复开启~</string>
+    <string name="open_target_app">打开目标APP</string>
 </resources>

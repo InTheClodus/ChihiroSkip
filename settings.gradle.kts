@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChihiroSkip"
 include(":app")
+include(":scrolllayout")
